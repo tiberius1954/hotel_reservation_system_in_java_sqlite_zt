@@ -4,9 +4,9 @@ import java.sql.*;
 import javax.swing.JOptionPane;
 
 public class DatabaseHelper {	 
-	    Connection con = null;
-	    PreparedStatement pst = null;
-	    ResultSet rst = null;
+	     static Connection con = null;
+	    static PreparedStatement pst = null;
+	   static ResultSet rst = null;
 	    
     public Connection getConnection(){    
         try {           
