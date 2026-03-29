@@ -4,3 +4,7 @@ In different program languages you have to solve the same task in a different wa
 it causes great difficulties for programmers.
 I hope, you will find lot of interesting things in this sources.
 Readymade project, sqlite database widt java.
+
+<img width="890" height="510" alt="image" src="https://github.com/user-attachments/assets/be21fa2c-5f3f-4c45-b4f0-8e9889f73b6e" />
+
+
